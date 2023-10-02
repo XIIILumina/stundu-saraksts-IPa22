@@ -70,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# stundu-saraksts-IPa22" 
 "# stundu-saraksts-IPa22" 
+"# stundu-saraksts-IPa22"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/XIIILumina/stundu-saraksts-IPa22.git git push -u origin main
+"# stundu-saraksts-IPa22" 
